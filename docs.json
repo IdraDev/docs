@@ -16,6 +16,7 @@
           {
             "group": "Regolamento Generale",
             "pages": [
+              "generale/base",
               "generale/azioni"
             ]
           },
