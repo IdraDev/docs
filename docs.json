@@ -36,6 +36,18 @@
               "criminale/rapine",
               "criminale/sistema-illegale"
             ]
+          },
+          {
+            "group": "Legale",
+            "pages": [
+              "legale/attivita",
+              "legale/medici",
+              "legale/governo",
+              {
+                "group": "👮🏻 Polizia",
+                "pages": ["legalita/polizia/gerarchia"]
+              }
+            ]
           }
         ]
       }
