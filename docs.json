@@ -34,7 +34,7 @@
         "language": "it",
         "groups": [
           {
-            "group": "Generale",
+            "group": "Regolamento Generale",
             "pages": [
               "generale/termini-base",
               "generale/azioni",
@@ -46,7 +46,7 @@
             ]
           },
           {
-            "group": "Criminale",
+            "group": "Regolamento Criminale",
             "pages": [
               "criminale/assalti",
               "criminale/azioni-illegali",
@@ -58,7 +58,7 @@
             ]
           },
           {
-            "group": "Legale",
+            "group": "Regolamento Legale",
             "pages": [
               "legale/attivita",
               "legale/medici",
@@ -74,7 +74,7 @@
             ]
           },
           {
-            "group": "Zone",
+            "group": "Regolamento Zone",
             "pages": ["zone/nere", "zone/rosse", "zone/semi-safe", "zone/safe"]
           }
         ]
