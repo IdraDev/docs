@@ -9,57 +9,6 @@
   },
   "favicon": "/favicon.ico",
   "navigation": {
-    "tabs": [
-      {
-        "tab": "Regolamento Roleplay",
-        "groups": [
-          {
-            "group": "Generale",
-            "pages": [
-              "generale/termini-base",
-              "generale/azioni",
-              "generale/buona-condotta",
-              "generale/streamers",
-              "generale/permadeath-permajail",
-              "generale/inventario",
-              "generale/loot"
-            ]
-          },
-          {
-            "group": "Criminale",
-            "pages": [
-              "criminale/assalti",
-              "criminale/azioni-illegali",
-              "criminale/campi",
-              "criminale/piazza-di-spaccio",
-              "criminale/rapimenti",
-              "criminale/rapine",
-              "criminale/sistema-illegale"
-            ]
-          },
-          {
-            "group": "Legale",
-            "pages": [
-              "legale/attivita",
-              "legale/medici",
-              "legale/governo",
-              {
-                "group": "Polizia",
-                "pages": [
-                  "legale/polizia/index",
-                  "legale/polizia/gerarchia",
-                  "legale/polizia/radio"
-                ]
-              }
-            ]
-          },
-          {
-            "group": "Zone",
-            "pages": ["zone/nere", "zone/rosse", "zone/semi-safe", "zone/safe"]
-          }
-        ]
-      }
-    ],
     "global": {
       "anchors": [
         {
@@ -78,7 +27,68 @@
           "icon": "discord"
         }
       ]
-    }
+    },
+    "languages": [
+      {
+        "language": "it",
+        "tabs": [
+          {
+            "tab": "Regolamento Roleplay",
+            "groups": [
+              {
+                "group": "Generale",
+                "pages": [
+                  "generale/termini-base",
+                  "generale/azioni",
+                  "generale/buona-condotta",
+                  "generale/streamers",
+                  "generale/permadeath-permajail",
+                  "generale/inventario",
+                  "generale/loot"
+                ]
+              },
+              {
+                "group": "Criminale",
+                "pages": [
+                  "criminale/assalti",
+                  "criminale/azioni-illegali",
+                  "criminale/campi",
+                  "criminale/piazza-di-spaccio",
+                  "criminale/rapimenti",
+                  "criminale/rapine",
+                  "criminale/sistema-illegale"
+                ]
+              },
+              {
+                "group": "Legale",
+                "pages": [
+                  "legale/attivita",
+                  "legale/medici",
+                  "legale/governo",
+                  {
+                    "group": "Polizia",
+                    "pages": [
+                      "legale/polizia/index",
+                      "legale/polizia/gerarchia",
+                      "legale/polizia/radio"
+                    ]
+                  }
+                ]
+              },
+              {
+                "group": "Zone",
+                "pages": [
+                  "zone/nere",
+                  "zone/rosse",
+                  "zone/semi-safe",
+                  "zone/safe"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
   },
   "logo": {
     "light": "/logo/light.svg",
