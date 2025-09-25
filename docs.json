@@ -15,7 +15,12 @@
         "groups": [
           {
             "group": "Regolamento Generale",
-            "pages": ["generale/termini-base", "generale/azioni"]
+            "pages": [
+              "generale/termini-base",
+              "generale/azioni",
+              "generale/regolamento-buona-condotta",
+              "generale/streamers"
+            ]
           }
         ]
       }
