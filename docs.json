@@ -45,10 +45,7 @@
               "legale/governo",
               {
                 "group": "👮🏻 Polizia",
-                "pages": [
-                  "legalita/polizia/gerarchia",
-                  "legalita/polizia/radio"
-                ]
+                "pages": ["legale/polizia/gerarchia", "legale/polizia/radio"]
               }
             ]
           }
