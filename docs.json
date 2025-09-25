@@ -17,12 +17,7 @@
             "group": "Regolamento Generale",
             "pages": [
               "generale/termini-base",
-              "generale/regolamento-buonacondotta",
-              "generale/regolamento-streamers",
-              "generale/inventario",
-              "generale/azioni",
-              "generale/regolamento-loot",
-              "generale/regolamento-permadeathpermajail"
+              "generale/azioni"
             ]
           },
           {
@@ -32,14 +27,6 @@
               "essentials/code",
               "essentials/images",
               "essentials/reusable-snippets"
-            ]
-          },
-          {
-            "group": "AI tools",
-            "pages": [
-              "ai-tools/cursor",
-              "ai-tools/claude-code",
-              "ai-tools/windsurf"
             ]
           }
         ]
