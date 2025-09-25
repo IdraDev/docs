@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "theme": "mint",
+  "theme": "maple",
   "name": "Regolamento Apex",
   "colors": {
     "primary": "#FF1D4E",
@@ -15,19 +15,7 @@
         "groups": [
           {
             "group": "Regolamento Generale",
-            "pages": [
-              "generale/termini-base",
-              "generale/azioni"
-            ]
-          },
-          {
-            "group": "Writing content",
-            "pages": [
-              "essentials/markdown",
-              "essentials/code",
-              "essentials/images",
-              "essentials/reusable-snippets"
-            ]
+            "pages": ["generale/termini-base", "generale/azioni"]
           }
         ]
       }
