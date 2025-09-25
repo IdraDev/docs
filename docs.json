@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "theme": "maple",
+  "theme": "mint",
   "name": "Regolamento Apex",
   "colors": {
     "primary": "#FF1D4E",
@@ -18,8 +18,11 @@
             "pages": [
               "generale/termini-base",
               "generale/azioni",
-              "generale/regolamento-buona-condotta",
-              "generale/streamers"
+              "generale/buona-condotta",
+              "generale/streamers",
+              "generale/permadeath-permajail",
+              "generale/inventario",
+              "generale/loot"
             ]
           }
         ]
