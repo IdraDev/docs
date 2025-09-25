@@ -17,8 +17,12 @@
             "group": "Regolamento Generale",
             "pages": [
               "generale/termini-base",
+              "generale/regolamento-buonacondotta",
+              "generale/regolamento-streamers",
+              "generale/inventario",
               "generale/azioni",
-              "generale/inventario"
+              "generale/regolamento-loot",
+              "generale/regolamento-permadeathpermajail"
             ]
           },
           {
