@@ -14,10 +14,9 @@
         "tab": "Regolamento ufficiale",
         "groups": [
           {
-            "group": "Generale",
+            "group": "Regolamento Generale",
             "pages": [
-              "essentials/settings",
-              "essentials/navigation"
+              "generale/*"
             ]
           },
           {
