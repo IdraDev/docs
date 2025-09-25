@@ -14,7 +14,7 @@
         "tab": "Regolamento ufficiale",
         "groups": [
           {
-            "group": "Regolamento Generale",
+            "group": "Generale",
             "pages": [
               "generale/termini-base",
               "generale/azioni",
@@ -26,7 +26,7 @@
             ]
           },
           {
-            "group": "Regolamento Criminale",
+            "group": "Criminale",
             "pages": [
               "criminale/assalti",
               "criminale/azioni-illegali",
