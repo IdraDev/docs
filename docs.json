@@ -24,6 +24,17 @@
               "generale/inventario",
               "generale/loot"
             ]
+          },
+          {
+            "group": "Regolamento Criminale",
+            "pages": [
+              "criminale/assalti",
+              "criminale/azioni-illegali",
+              "criminale/campi",
+              "criminale/piazza-di-spaccio",
+              "criminale/rapimenti",
+              "criminale/rapine"
+            ]
           }
         ]
       }
