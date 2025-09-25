@@ -14,6 +14,7 @@
         {
           "anchor": "Sito ufficiale",
           "href": "https://apexrp.it",
+          "target": "_self",
           "icon": "arrow-left-from-bracket"
         },
         {
