@@ -44,7 +44,7 @@
               "legale/medici",
               "legale/governo",
               {
-                "group": "👮🏻 Polizia",
+                "group": "Polizia",
                 "pages": [
                   "legale/polizia/index",
                   "legale/polizia/gerarchia",
